@@ -1,0 +1,27 @@
+{
+  "name": "any-currency-convertor",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency ",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovkashGarg555/any-currency-convertor.git"
+  },
+  "keywords": [
+    "npm",
+    "currency"
+  ],
+  "author": "Lovkash Garg",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lovkashGarg555/any-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/lovkashGarg555/any-currency-convertor#readme",
+  "dependencies": {
+    "@everapi/currencyapi-js": "^1.0.6"
+  }
+}
